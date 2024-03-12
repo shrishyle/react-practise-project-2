@@ -1,0 +1,31 @@
+{
+  "liveServer.settings.port": 5503,
+  "editor.minimap.enabled": false,
+  "editor.minimap.maxColumn": 50,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.formatOnSave": true,
+  "prettier.printWidth": 200,
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#4970b0",
+    "activityBar.background": "#4970b0",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#daa5b9",
+    "activityBarBadge.foreground": "#15202b",
+    "commandCenter.border": "#e7e7e799",
+    "sash.hoverBorder": "#4970b0",
+    "statusBar.background": "#3a598c",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#4970b0",
+    "statusBarItem.remoteBackground": "#3a598c",
+    "statusBarItem.remoteForeground": "#e7e7e7",
+    "titleBar.activeBackground": "#3a598c",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#3a598c99",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "peacock.color": "#3a598c",
+  "html.format.wrapLineLength": 250,
+  "diffEditor.wordWrap": "off",
+  "editor.wordWrap": "off"
+}
